@@ -20,12 +20,15 @@ In general worked with monolitic, as well as microservice arthitectures. My code
 <p align='center'>
    📫 How to reach me: <a href='mailto:hudymenkoyevhenii@gmail.com'>hudymenkoyevhenii@gmail.com</a>
 </p>
+<p align='center'>
+ <img src="https://www.codewars.com/users/Habubinator/badges/small"/>
+</p>
 
 ## 🛠 Technical Stack
-*   NodeJs/JS/TS/Java/Python/C# languages
-*   MySQL, Firestore, MongoDB
-*   Electron, React, Express, NestJS, Rest API
-*   GitHub/GitLab/Bitbucket
+*   NodeJs/JS/Java/Python/C# languages
+*   MySQL, Firestore, MongoD
+*   Electron, Express, NestJS, Rest API
+*   Have Used only GitHub VCS yet
 *   Experience in Agile environment - Scrum and Kanban
 
 ### My opensource projects
