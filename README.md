@@ -3,11 +3,11 @@ Junior Software Engineer with a little commercial experience. Usually code Bots 
 In general worked with monolitic, as well as microservice arthitectures. My code is mostly open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=habubinator&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=habubinator&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=habubinator&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats-sigma-five.vercel.app/api?username=habubinator&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/habubinator/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=habubinator&layout=compact"/></a>
+                                                                  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=habubinator&layout=compact"/></a>
 </p>
 
 <p align='center'>
