@@ -25,9 +25,9 @@ In general worked with monolitic, as well as microservice arthitectures. My code
 </p>
 
 ## 🛠 Technical Stack
-*   NodeJs/JS/Java/Python/C# languages
-*   MySQL, Firestore, MongoD
-*   Electron, Express, NestJS, Rest API
+*   JS/TS/Java/Python/C-languages/ Golang/Haskell
+*   MySQL, PostgreSQL,SQLite, Firestore, MongoDB
+*   Electron.js, Mongoose, Objection.js, Express.js, Rest API
 *   Have Used only GitHub VCS yet
 *   Experience in Agile environment - Scrum and Kanban
 
