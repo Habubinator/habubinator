@@ -25,7 +25,7 @@ In general worked with monolitic, as well as microservice arthitectures. My code
 </p>
 
 ## 🛠 Technical Stack
-*   JS/TS/Java/Python/C-languages/ Golang/Haskell
+*   JS/TS/Java/Python/C-languages/Golang/Haskell
 *   MySQL, PostgreSQL,SQLite, Firestore, MongoDB
 *   Electron.js, Mongoose, Objection.js, Express.js, Rest API
 *   Have Used only GitHub VCS yet
