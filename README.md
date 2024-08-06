@@ -31,9 +31,6 @@ In general worked with monolitic, as well as microservice arthitectures. My code
 *   Have Used only GitHub VCS yet
 *   Experience in Agile environment - Scrum and Kanban
 
-### My opensource projects
-
-* [TRIAD telegram bot](https://t.me/TriadColours_Bot) 
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/habubinator/github-profile-views-counter">
