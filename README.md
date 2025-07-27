@@ -1,8 +1,8 @@
 # Hi, I'm Yevheniy 👋
 **Software Engineer** with 6+ years of experience and 2+ years of commercial development. Specialized in Telegram Bot development and Backend solutions using Node.js.
 
-🏆 **Top 20 Ukraine** in "Bot Development" category  
-🏆 **Top 100 Ukraine** in "Node.js" category  
+🏆 **Top 20 Ukraine** in "Bot Development" freelance category  
+🏆 **Top 100 Ukraine** in "Node.js" freelance category  
 
 Worked with clients from Ukraine, Europe, and USA. Experienced in both monolithic and microservice architectures. Most of my code is open-source.
 
