@@ -51,14 +51,11 @@ Worked with clients from Ukraine, Europe, and USA. Experienced in both monolithi
 * **Data extraction** and information formatting from websites
 
 ## 🛠 Technical Stack
-* **Languages:** JavaScript/TypeScript, Java, Python, C-languages, Golang, Haskell
-* **Databases:** MySQL, PostgreSQL, SQLite, Firestore, MongoDB
-* **Frameworks:** Node.js, Express.js, Electron.js, Mongoose, Objection.js
+* **Languages:** JavaScript/TypeScript + 8 others as side hussle
+* **Databases:** PrismaORM + PostgreSQL (or MySQL, SQLite, MongoDB), Firestore, AWS DynamoDB
+* **Frameworks:** Express.js, Electron.js, Puppeteer.js, Playwright.js
 * **API:** REST API development and integration
-* **Tools:** GitHub VCS, Agile environment (Scrum and Kanban)
-* **Additional:** Desktop applications, full-cycle project development, post-launch support
-
-⚡ **Delivery time:** 2-7 days depending on complexity
+* **Tools:** GitHub VCS + GitHub Actions, Docker, Agile environment (Scrum and Kanban)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/habubinator/github-profile-views-counter">
