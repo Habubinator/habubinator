@@ -1,6 +1,10 @@
 # Hi, I'm Yevheniy 👋
-Junior Software Engineer with a little commercial experience. Usually code Bots on NodeJS
-In general worked with monolitic, as well as microservice arthitectures. My code is mostly open-source.
+**Middle Software Engineer** with 6+ years of experience and 2+ years of commercial development. Specialized in Telegram Bot development and Backend solutions using Node.js.
+
+🏆 **Top 20 Ukraine** in "Bot Development" category  
+🏆 **Top 100 Ukraine** in "Node.js" category  
+
+Worked with clients from Ukraine, Europe, and USA. Experienced in both monolithic and microservice architectures. Most of my code is open-source.
 
 <p align='center'>
    <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=habubinator&show_icons=true&count_private=true"><img
@@ -17,20 +21,44 @@ In general worked with monolitic, as well as microservice arthitectures. My code
    <a href="https://t.me/Munakuso">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+</p>
+
 <p align='center'>
    📫 How to reach me: <a href='mailto:hudymenkoyevhenii@gmail.com'>hudymenkoyevhenii@gmail.com</a>
 </p>
+
 <p align='center'>
  <img src="https://www.codewars.com/users/Habubinator/badges/small"/>
 </p>
 
-## 🛠 Technical Stack
-*   JS/TS/Java/Python/C-languages/Golang/Haskell
-*   MySQL, PostgreSQL,SQLite, Firestore, MongoDB
-*   Electron.js, Mongoose, Objection.js, Express.js, Rest API
-*   Have Used only GitHub VCS yet
-*   Experience in Agile environment - Scrum and Kanban
+## 🤖 Telegram Bot Development
+* **Sales Bots** with payment gateway integrations
+* **Moderation & Analytics** bots for user control
+* **Gaming bots** with mini-app games and interactive mechanics
+* **Crypto bots** with trading signals and cryptocurrency integration
+* **Automation bots** for account management and API interactions
+* **Business logic**: scheduling, surveys, mailing, interactive workflows
 
+## 🚀 Backend Development
+* **API servers** for websites, mobile and desktop applications
+* **Server logic** for Telegram bots and mobile applications
+* **Database management**, authentication, secure third-party integrations
+* **Microservices architecture** and scalable solutions
+
+## 🌐 Web Development
+* **Website automation**: logins, form filling, web scraping
+* **Full-stack websites** with user dashboards, chats, API integrations
+* **Data extraction** and information formatting from websites
+
+## 🛠 Technical Stack
+* **Languages:** JavaScript/TypeScript, Java, Python, C-languages, Golang, Haskell
+* **Databases:** MySQL, PostgreSQL, SQLite, Firestore, MongoDB
+* **Frameworks:** Node.js, Express.js, Electron.js, Mongoose, Objection.js
+* **API:** REST API development and integration
+* **Tools:** GitHub VCS, Agile environment (Scrum and Kanban)
+* **Additional:** Desktop applications, full-cycle project development, post-launch support
+
+⚡ **Delivery time:** 2-7 days depending on complexity
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/habubinator/github-profile-views-counter">
