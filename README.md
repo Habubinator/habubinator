@@ -28,7 +28,7 @@ Worked with clients from Ukraine, Europe, and USA. Experienced in both monolithi
 </p>
 
 <p align='center'>
- <img src="https://www.codewars.com/users/Habubinator/badges/small"/>
+ <img src="https://www.codewars.com/users/Habubinator/badges/large"/>
 </p>
 
 ## 🤖 Telegram Bot Development
