@@ -4,7 +4,7 @@
 🏆 **Top 20 Ukraine** in "Bot Development" freelance category  
 🏆 **Top 100 Ukraine** in "Node.js" freelance category  
 
-Worked with clients from Ukraine, Europe, and USA. Experienced in both monolithic and microservice architectures. Most of my code is open-source.
+Worked with clients from Ukraine, Europe, and USA. Experienced in both monolithic and microservice architectures.
 
 <p align='center'>
    <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=habubinator&show_icons=true&count_private=true"><img
